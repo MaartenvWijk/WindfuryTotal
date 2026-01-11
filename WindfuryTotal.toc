@@ -1,0 +1,8 @@
+## Interface: 11505
+## Title: WindfuryTotal
+## Notes: Tracks Windfury proc totals (with history)
+## Author: Maarten van Wijk
+## Version: 1.0
+## SavedVariables: WindfuryTotalDB
+
+WindfuryTotal.lua
